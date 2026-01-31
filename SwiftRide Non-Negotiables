@@ -1,1 +1,16 @@
+# SwiftRide – Non-Negotiables
+
+1. No simulated transactions
+2. No fake balances
+3. Every transaction must:
+   - Have a Transaction ID
+   - Have a Status
+   - Be traceable to a user
+4. WhatsApp is the primary interface
+5. Google Sheets is the live ledger until replaced
+6. Manual override is allowed but logged
+7. No silent failures
+8. Every error must be visible
+9. Every action must leave an audit trail
+10. System must work on a phone
 
